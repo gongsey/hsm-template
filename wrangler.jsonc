@@ -5,7 +5,7 @@
   "compatibility_date": "2025-12-02",
   "kv_namespaces": [
     {
-      "binding": "KV","id":  "da6397e4fb984b4faf53482138bc8fbe"
+      "binding": "KV","id":  "82b312a401d74ad8b5b3793510075a07"
     }
   ],
   "env": {
@@ -14,8 +14,8 @@
       "kv_namespaces": [
         {
           "binding": "KV",
-          "id": "da6397e4fb984b4faf53482138bc8fbe",
-          "preview_id": "da6397e4fb984b4faf53482138bc8fbe"
+          "id": "82b312a401d74ad8b5b3793510075a07",
+          "preview_id": "82b312a401d74ad8b5b3793510075a07"
         }
       ]
     },
